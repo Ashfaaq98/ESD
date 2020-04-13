@@ -5,6 +5,7 @@ Welcome to Telusko Kitchen
 kheer
 pasta
 
+
 chicken fry
 
 beans
@@ -12,3 +13,7 @@ pizza
 
 
 Thank you 
+
+chicken
+
+final copy
